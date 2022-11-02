@@ -1,2 +1,2 @@
 # jwt-project
-A demo for an article written about JWT authentication
+Готове АПІ, для авторизації та автентифікації з використанням токенів на платформі node.js.
